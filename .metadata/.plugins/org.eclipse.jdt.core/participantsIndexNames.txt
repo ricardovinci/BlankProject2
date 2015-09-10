@@ -1,0 +1,9 @@
+INDEX VERSION 1.127
+/Users/vinci/Work/code/ricardoWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2975277784.index
+/SampleMVC/src/main/java
+/Users/vinci/Work/code/ricardoWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/919373043.index
+/BlankProject/src
+/Users/vinci/Work/code/ricardoWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/483611576.index
+/BlankProject/src
+/Users/vinci/Work/code/ricardoWorkspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3064774158.index
+/BlankProject/src

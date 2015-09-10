@@ -1,0 +1,5 @@
+package com.blankproject.controller.form;
+
+public class SignupForm {
+
+}
